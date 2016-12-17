@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Week6_SharePreferences</string>
+
+    <string name="credentials_pref">Credentials</string>
+</resources>
